@@ -1,4 +1,4 @@
-### Hello! Eu sou o Thomás Estanislau, viciado em tecnologia, engenheiro e caçador de replicantes 👋
+### Hello! Eu sou o Thomás Estanislau, viciado em tecnologia, engenheiro e caçador de replicantes.
 
 
 - 🌱 Estudando cada dia mais: Python, JavaScript, CSS, HTML
@@ -9,3 +9,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomasestanislau&layout=compact&langs_count=7&theme=ocean_dark"/>
 </div>
 
+ttps://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
