@@ -1,4 +1,4 @@
-### Hello, World! Eu sou o Thomás Estanislau, viciado em tecnologia, engenheiro e caçador de replicantes.
+### Hello, World! Eu sou o Thomás Estanislau, viciado em tecnologia e nas horas vagas, caço bugs.
 
 <div align="center">
   <a href="https://github.com/thomasestanislau">
