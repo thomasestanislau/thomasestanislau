@@ -1,4 +1,4 @@
-### Hello, World! Eu sou o Thomás Estanislau, viciado em tecnologia e nas horas vagas, caço bugs.
+### Hello, World! Eu sou o Thomás Estanislau, viciado em tecnologia e em desenvolvimento full-stack.
 
 <div align="center">
   <a href="https://github.com/thomasestanislau">
